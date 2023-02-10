@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+#coustom-nav1 {
+  color: #323f4b;
+  font-family: Roboto;
+}
+
+#coustom-nav2 {
+  color: #323f4b;
+  font-family: Roboto;
+}
+
+#coustom-nav3 {
+  color: #323f4b;
+  font-family: Roboto;
+}
+
+#coustom-nav4 {
+  color: #323f4b;
+  font-family: Roboto;
+}
+
+.sizeImage {
+  height: 70px;
+  width: 80px;
+}
+
+.banner-bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+  height: 80vh;
+  background-size: cover;
+}
+
+.banner-content {
+  color: white;
+  font-family: Roboto;
+  font-size: 27px;
+  font-weight: 300;
+}
+
+.banner-caption {
+  color: white;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.veiw-botton {
+  background-color: #e3cd27;
+  border-radius: 8px;
+  color: white;
+  border-width: 0px;
+  margin-right: 5px;
+  font-size: 20px;
+}
+
+.order-botton {
+  background-color: transparent;
+  border-radius: 8px;
+  color: #e3cd27;
+  border-width: 1px;
+  margin-right: 5px;
+  border-color: #e3cd27;
+  border-width: solid;
+  font-size: 20px;
+}
+
+.wcu-bg-container {
+  background-color: #f9fbfe;
+}
+
+.wcu-section-head {
+  color: #183b56;
+  font-size: 40px;
+  font-weight: 700;
+  font-style: Roboto;
+}
+
+.wcu-section-para {
+  color: #183b56;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: Roboto;
+}
+
+.wcu-card {
+  background-color: white;
+  text-align: center;
+  border-style: solid;
+  border-color: #e5eaf4;
+  border-width: 1px;
+  border-radius: 10px;
+}
+
+.wcu-size {
+  height: 90px;
+  width: 80px;
+}
+
+.wcu-card-heading {
+  color: #183b56;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: Roboto;
+  margin-top: 18px;
+}
+
+.wcu-card-para {
+  color: grey;
+  font-size: 20px;
+  font-weight: 200;
+  font-style: Roboto;
+}
+
+.off-stl {
+  color: #183b56;
+  font-weight: 600;
+}
+
+.menu-section-bg-container {
+  background-color: #faf9f7;
+}
+
+.menu-sec-heading {
+  color: #183b56;
+  font-size: 30px;
+  font-family: Roboto;
+  font-weight: 700;
+}
+
+.img-size {
+  border-radius: 16px;
+}
+
+.about-food {
+  color: #183b56;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+
+.menue-link {
+  font-family: Roboto;
+  color: #d0b200;
+}
+
+.card-style {
+  border-radius: 16px;
+}
+
+.healthy-food-section {
+  background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+  width: 270px;
+}
+
+.healthy-food-section-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+
+.healthy-food-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.custom-button {
+  width: 130px;
+  height: 45px;
+  color: white;
+  background-image: linear-gradient(#d0b200, #a58d00);
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+  width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.payment-card-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+
+.thanking-customers-section {
+  background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+}
+
+.followUs-section {
+  background-color: white;
+}
+
+.folow-heading {
+  color: grey;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.icon-sec {
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  background-color: #fcf9c0;
+}
+
+.icon {
+  color: #e0d610;
+  font-size: 34px;
+}
+
+.Voucher-stl {
+  font-family: Roboto;
+  color: #fccb42;
+}
